@@ -25,4 +25,4 @@ char *White(char *string) /*switch to function*/.
 	return string;
 }
 
-Translated with www.DeepL.com/Translator (free version)
+
